@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Protutos e Preços</title>
+
+
+</head>
+
+<body>
+
+    <style>
+        body{
+            background-color: rgb(87, 99, 212);
+        }
+    </style>
+       
+       <table border="3">
+            
+            <caption>Aguas</caption>
+           
+            <tr>
+                
+                <tH colspan="2"> marca  </tH>
+                <th>Preço</th>
+                
+            </tr>
+                <tr>
+                    
+                   <td>Agua Lindoya 6L</td> 
+                    <td><img src="agua lindoya.jpg" alt="agua lindoya" width="150 " height="150"  ></td>
+                    <td>17,50</td>
+                </tr>
+                 <tr>
+                    <td>Agua Bonafont 6L</td> 
+                    <td><img src="agua bonafont.jpg" alt="agua bonafont." width="150 " height="150"  ></td>
+                    <td>18,00</td>
+                </tr>
+               
+                <tr>
+                    <td>Agua crystal 5L</td> 
+                    <td><img src="agua crystal.jpg" alt="agua crystal." width="150 " height="150"  ></td>
+                    <td>14,50</td>
+                </tr>
+                <tr>
+                    <td>Agua manalba 5L</td> 
+                    <td><img src="agua_mineral_sem_gas_minalba_5l.jpg" alt="agua_mineral_sem_gas_minalba_5l" width="150 " height="150"  ></td>
+                    <td>13,50</td>
+                </tr> <br>                
+               
+                 
+
+
+       
+    
+    
+        
+    
+    
+    
+   
+    
+    </table>
+
+
+
+
+
+</body>
+
+
+</html>
