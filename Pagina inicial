@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+            <title>Pagina inicial</title>
+
+    </head>
+    
+    
+    <body>
+
+        
+        <img src="Fonte Saudável.jpg" alt="Fonte Saudável." width="800" height="300">
+           
+        <h1><font size="7"> Sobre o site  </font> <bR></h1>
+        <h2><font size="5"> O site fonte saudável é um protótipo para vender água e outros líquidos.  </font> </h2>
+       
+        <h1><font size="7"> </font> <bR></h1>
+
+        <ul>
+            
+            <li><a href="tabelas .html">produtos e Preços</a> </li>
+        
+        </ul>   
+
+        <ul>
+            
+            <li><a href="formulario.html">cadastro</a> </li>
+        
+        </ul>   
+
+
+    </body>
+
+
+</html>
